@@ -1,1 +1,1 @@
-# sadinternetboy.github.io
+[Игры]/games/
