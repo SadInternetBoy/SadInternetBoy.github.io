@@ -157,10 +157,20 @@ input:focus ~ .highlight {
   #submit {
     height: 70px;
     font-size: 6vmin;
+    border: 0;
+    border-radius: 0;
   }
   .task {
     font-size: 6vmin;
   }
+  .container {
+    width: 95%;
+    margin: auto;
+    padding: 0;
+  }
+  .bar { 
+    width: 100%;
+   }
 }
 
 
